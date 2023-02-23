@@ -2,7 +2,6 @@
 
 /**
  * print_most_numbers - checks for a digit (0 through 9).
- * 
  * Return: always 0.
  */
 
